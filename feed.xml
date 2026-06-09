@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カルト・ファイル</title>
     <description>世界各国の宗教・カルト事件を、社会構造と心理の両面から深掘りするドキュメンタリーポッドキャスト。</description>
     <link>https://fummy-media.github.io/cult-file-podcast</link>
     <language>ja</language>
     <itunes:author>カルト・ファイル</itunes:author>
-    <itunes:owner><itunes:name>カルト・ファイル</itunes:name><itunes:email>miyake1238@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png"/>
-    <image><url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url><title>カルト・ファイル</title><link>https://fummy-media.github.io/cult-file-podcast</link></image>
-    <itunes:category text="True Crime"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://fummy-media.github.io/cult-file-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
@@ -18,45 +19,49 @@
       <description>---
 
 ペンシルバニアの田舎道を、一台の馬車がゆっくりと走っています。黒い帽子をかぶった男性が手綱を握り、その隣に妻が静かに座っています。車もスマートフォンも電気もない。でも彼らは不幸そうではありません。それどころか、穏やかな表情で前を向…</description>
-      <pubDate>Tue, 09 Jun 2026 09:32:27 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 02:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-8-ep08-アーミッシュとシャニング</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep08-アーミッシュとシャニング.mp3" length="8213805" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>8</itunes:episode>
     </item>
+
     <item>
       <title>ep7: サタン教会とアントン・ラヴェイ — 悪魔は微笑んでいた</title>
       <description>---
 
 一九六〇年代の終わり、アメリカのサンフランシスコに、真っ黒に塗られた家がありました。近所の人たちは、その家を「ブラックハウス」と呼んでいました。夜になると、なかから奇妙な音楽が聞こえてきたといいます。そして時おり、笑い声も。あなた…</description>
-      <pubDate>Tue, 09 Jun 2026 09:30:44 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 01:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-7-ep07-サタン教会とアントン・ラヴェイ</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep07-サタン教会とアントン・ラヴェイ.mp3" length="8414253" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>7</itunes:episode>
     </item>
+
     <item>
       <title>ep6: ダビデ教団とウェーコ包囲戦 — 炎が飲み込んだ神の砦</title>
       <description>---
 
 一九九〇年代の初め、テキサス州の広大な草原の真ん中に、一枚の建物が静かに立っていました。外から見れば、どこにでもある農場です。でも、その中では何かが起きていました。銃声が響き、子どもたちが泣き、そして最後には黒い煙が空を覆いつくし…</description>
-      <pubDate>Tue, 09 Jun 2026 09:23:01 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-6-ep06-ダビデ教団とウェーコ包囲戦</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep06-ダビデ教団とウェーコ包囲戦.mp3" length="7042509" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
     </item>
+
     <item>
       <title>ep5: 統一教会 — 愛という名の支配</title>
       <description>---
 
 あなたは、愛のために全てを捧げられますか。家族も、お金も、自分の未来さえも。そんな問いかけを、まるで当然のことのように語りかけてくる組織が、かつて日本中に広がっていました。不思議なのは、そこに集まった人たちが、決して弱い人間ではな…</description>
-      <pubDate>Tue, 09 Jun 2026 09:16:39 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 23:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-5-ep05-統一教会</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep05-統一教会.mp3" length="7202349" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
+
     <item>
       <title>ep4: サイエントロジー — 心の解放と引き換えに</title>
       <description>---
@@ -67,34 +72,37 @@
 仕事、人間関係、将来への不安。
 そういった悩みを抱えたとき、もし「あなたの心を完全に解放する方法がある」と声をかけられたら、どうするでしょうか。
 その入り口は…</description>
-      <pubDate>Tue, 09 Jun 2026 09:08:24 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 22:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-4-ep04-サイエントロジー</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep04-saientoroji-v2.mp3" length="8113581" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
+
     <item>
       <title>ep3: ヘブンズ・ゲート</title>
       <description>一九九〇年代のアメリカ、UFOと聖書を融合させた集団が集団自殺を遂げた事件。</description>
-      <pubDate>Tue, 09 Jun 2026 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-3-ep03-heavensgate</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep03-heavensgate.mp3" length="6573356" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
+
     <item>
       <title>ep2: オウム真理教</title>
       <description>高学歴の若者たちがなぜ地下鉄サリン事件に加担したのか。戦後日本最大の宗教事件を深掘りする。</description>
-      <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-2-ep02-aum</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep02-aum.mp3" length="3200000" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
+
     <item>
       <title>ep1: ジョーンズタウン — 九百人が死んだ夜</title>
       <description>一九七〇年代の終わり、南米ガイアナのジャングルで起きた集団自殺事件。なぜ人は神に殺されるのか。</description>
-      <pubDate>Mon, 08 Jun 2026 19:00:00 GMT</pubDate>
+      <pubDate>Sun, 07 Jun 2026 19:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-1-ep01-jonestown</guid>
       <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-jonestown.mp3" length="2200000" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
