@@ -8,6 +8,13 @@
     <link>https://fummy-media.github.io/cult-file-podcast</link>
     <language>ja</language>
     <itunes:author>カルト・ファイル</itunes:author>
+    <itunes:email>miyake1238@gmail.com</itunes:email>
+    <itunes:image href="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png"/>
+    <image>
+      <url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url>
+      <title>カルト・ファイル</title>
+      <link>https://fummy-media.github.io/cult-file-podcast</link>
+    </image>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary"/>
     </itunes:category>
