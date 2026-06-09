@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>カルト・ファイル</title>
+    <description>世界各国の宗教・カルト事件を、社会構造と心理の両面から深掘りするドキュメンタリーポッドキャスト。</description>
+    <link>https://fummy-media.github.io/cult-file-podcast</link>
+    <language>ja</language>
+    <itunes:author>カルト・ファイル</itunes:author>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://fummy-media.github.io/cult-file-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ジョーンズタウン — 九百人が死んだ夜</title>
+      <description>一九七〇年代の終わり、南米ガイアナのジャングルで起きた集団自殺事件。なぜ人は神に殺されるのか。</description>
+      <pubDate>Tue, 10 Jun 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">cult-file-1-ep01-jonestown</guid>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-jonestown.mp3" length="2200000" type="audio/mpeg"/>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
