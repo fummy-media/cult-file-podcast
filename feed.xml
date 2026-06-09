@@ -8,20 +8,44 @@
     <link>https://fummy-media.github.io/cult-file-podcast</link>
     <language>ja</language>
     <itunes:author>カルト・ファイル</itunes:author>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="Documentary"/>
-    </itunes:category>
+    <itunes:owner>
+      <itunes:name>カルト・ファイル</itunes:name>
+      <itunes:email>miyake1238@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png"/>
+    <image>
+      <url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url>
+      <title>カルト・ファイル</title>
+      <link>https://fummy-media.github.io/cult-file-podcast</link>
+    </image>
+    <itunes:category text="True Crime"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://fummy-media.github.io/cult-file-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>ep1: ヘブンズ・ゲート</title>
-      <description>---
-
-夜空を見上げたとき、あなたはそこに何を見るだろうか。星の瞬き、宇宙の広がり、あるいは――救いの手を差し伸べる知的生命体の存在を。一九九七年の春、アメリカ・カリフォルニア州の閑静な住宅地で、九十人近い人々が静かに命を絶った。彼らは旅…</description>
-      <pubDate>Tue, 09 Jun 2026 08:49:24 GMT</pubDate>
-      <guid isPermaLink="false">cult-file-1-ep01-ヘブンズ・ゲート</guid>
-      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-ヘブンズ・ゲート.mp3" length="6573356" type="audio/mpeg"/>
+      <title>ep3: ヘブンズ・ゲート</title>
+      <description>一九九〇年代のアメリカ、UFOと聖書を融合させた集団が集団自殺を遂げた事件。</description>
+      <pubDate>Tue, 09 Jun 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cult-file-3-ep03-heavensgate</guid>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-ヘブンズ・ゲート.mp3" length="3000000" type="audio/mpeg"/>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>ep2: オウム真理教</title>
+      <description>高学歴の若者たちがなぜ地下鉄サリン事件に加担したのか。戦後日本最大の宗教事件を深掘りする。</description>
+      <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cult-file-2-ep02-aum</guid>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep02-aum.mp3" length="3200000" type="audio/mpeg"/>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>ep1: ジョーンズタウン — 九百人が死んだ夜</title>
+      <description>一九七〇年代の終わり、南米ガイアナのジャングルで起きた集団自殺事件。なぜ人は神に殺されるのか。</description>
+      <pubDate>Mon, 08 Jun 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">cult-file-1-ep01-jonestown</guid>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-jonestown.mp3" length="2200000" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
     </item>
