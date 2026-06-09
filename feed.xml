@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カルト・ファイル</title>
     <description>世界各国の宗教・カルト事件を、社会構造と心理の両面から深掘りするドキュメンタリーポッドキャスト。</description>
     <link>https://fummy-media.github.io/cult-file-podcast</link>
     <language>ja</language>
     <itunes:author>カルト・ファイル</itunes:author>
-    <itunes:owner>
-      <itunes:name>カルト・ファイル</itunes:name>
-      <itunes:email>miyake1238@gmail.com</itunes:email>
-    </itunes:owner>
+    <itunes:owner><itunes:name>カルト・ファイル</itunes:name><itunes:email>miyake1238@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png"/>
-    <image>
-      <url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url>
-      <title>カルト・ファイル</title>
-      <link>https://fummy-media.github.io/cult-file-podcast</link>
-    </image>
+    <image><url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url><title>カルト・ファイル</title><link>https://fummy-media.github.io/cult-file-podcast</link></image>
     <itunes:category text="True Crime"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://fummy-media.github.io/cult-file-podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -27,7 +18,7 @@
       <description>一九九〇年代のアメリカ、UFOと聖書を融合させた集団が集団自殺を遂げた事件。</description>
       <pubDate>Tue, 09 Jun 2026 11:00:00 GMT</pubDate>
       <guid isPermaLink="false">cult-file-3-ep03-heavensgate</guid>
-      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep01-ヘブンズ・ゲート.mp3" length="3000000" type="audio/mpeg"/>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep03-heavensgate.mp3" length="6573356" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
