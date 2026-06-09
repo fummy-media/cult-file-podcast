@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カルト・ファイル</title>
     <description>世界各国の宗教・カルト事件を、社会構造と心理の両面から深掘りするドキュメンタリーポッドキャスト。</description>
     <link>https://fummy-media.github.io/cult-file-podcast</link>
     <language>ja</language>
     <itunes:author>カルト・ファイル</itunes:author>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="Documentary"/>
-    </itunes:category>
+    <itunes:owner><itunes:name>カルト・ファイル</itunes:name><itunes:email>miyake1238@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png"/>
+    <image><url>https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/cover.png</url><title>カルト・ファイル</title><link>https://fummy-media.github.io/cult-file-podcast</link></image>
+    <itunes:category text="True Crime"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://fummy-media.github.io/cult-file-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
@@ -25,7 +24,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>8</itunes:episode>
     </item>
-
     <item>
       <title>ep7: サタン教会とアントン・ラヴェイ — 悪魔は微笑んでいた</title>
       <description>---
@@ -37,7 +35,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>7</itunes:episode>
     </item>
-
     <item>
       <title>ep6: ダビデ教団とウェーコ包囲戦 — 炎が飲み込んだ神の砦</title>
       <description>---
@@ -49,7 +46,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
     </item>
-
     <item>
       <title>ep5: 統一教会 — 愛という名の支配</title>
       <description>---
@@ -61,7 +57,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
-
     <item>
       <title>ep4: サイエントロジー — 心の解放と引き換えに</title>
       <description>---
@@ -74,11 +69,10 @@
 その入り口は…</description>
       <pubDate>Tue, 09 Jun 2026 09:08:24 GMT</pubDate>
       <guid isPermaLink="false">cult-file-4-ep04-サイエントロジー</guid>
-      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep04-サイエントロジー.mp3" length="8186733" type="audio/mpeg"/>
+      <enclosure url="https://pub-fa880d8398a8466ba511b93b8fa90171.r2.dev/episodes/ep04-saientoroji-v2.mp3" length="8113581" type="audio/mpeg"/>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
-
     <item>
       <title>ep3: ヘブンズ・ゲート</title>
       <description>一九九〇年代のアメリカ、UFOと聖書を融合させた集団が集団自殺を遂げた事件。</description>
@@ -88,7 +82,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
     </item>
-
     <item>
       <title>ep2: オウム真理教</title>
       <description>高学歴の若者たちがなぜ地下鉄サリン事件に加担したのか。戦後日本最大の宗教事件を深掘りする。</description>
@@ -98,7 +91,6 @@
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
     </item>
-
     <item>
       <title>ep1: ジョーンズタウン — 九百人が死んだ夜</title>
       <description>一九七〇年代の終わり、南米ガイアナのジャングルで起きた集団自殺事件。なぜ人は神に殺されるのか。</description>
